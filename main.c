@@ -2,10 +2,10 @@
 
 int main(){
     printf("Hello\n");
-    return 0;
+    return -1;
     //main
     //mod 1
-    cosas
+    
     //cosa
     //camibo main2
 	//printf("web2\n");
